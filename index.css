@@ -5,6 +5,7 @@ body{
 }
 .main-container1{
     background-color: #1F2937;
+<<<<<<< HEAD
 }
 .top-line{
     display: flex;
@@ -16,10 +17,26 @@ body{
 .text1{
     font-size: 22px;
     color: #f9faf8;
+=======
+    height: 30%;
+    margin-bottom: 25px;
+}
+.top-line{
+    display: flex;
+}
+.text1{
+    margin-left: 14.5%;
+}
+.text1 div{
+    color: white;
+    margin: 10px 0 0 10px;
+    font-size: 18px;
+>>>>>>> ff83653d0d4281e16d13c6834fefa39c53a1ef61
     font-weight: bold;
 }
 .url-links{
     display: flex;
+<<<<<<< HEAD
 }
 .url-links div{
     font-size: 18px;
@@ -42,10 +59,36 @@ body{
     font-size: 18px;
     color: #e5e7eb;
     margin-top: 0px;
+=======
+    margin-left: 39.5%;
+}
+.url-links div{
+    color: #e5e7eb;
+    margin: 10px;
+    font-size: 18px;
+}
+.main-section{
+    display: flex;
+}
+.text{
+    margin: 1% 3% 2% 15%;
+}
+.text h2{
+    color: white;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 48px;
+}
+.text p{
+    color: #e5e7eb;
+    margin-top: 0;
+    font-size: 18px
+>>>>>>> ff83653d0d4281e16d13c6834fefa39c53a1ef61
 }
 .text button{
     background-color: #3883f2;
     border:none;
+<<<<<<< HEAD
     border-radius: 8px;
     font-size: 18px;
     height: 40px;
@@ -67,6 +110,22 @@ body{
 }
 .main-container2{
     background-color: #ffffff;
+=======
+    border-radius: 10px;
+    font-size: 17px;
+    height: 15%;
+    width: 35%;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+}
+.image{
+    margin: 2% 0% 3% 5%;
+}
+.main-container2{
+    background-color: #ffffff;
+    height: 30%;
+>>>>>>> ff83653d0d4281e16d13c6834fefa39c53a1ef61
 }
 .some-text p{
     font-size: 36px;
@@ -74,7 +133,11 @@ body{
     color: #1F2937;
     text-align: center;
 }
+<<<<<<< HEAD
 .image-container, .image-description,.blue-box-button, .footer{
+=======
+.image-container, .image-description{
+>>>>>>> ff83653d0d4281e16d13c6834fefa39c53a1ef61
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,6 +161,7 @@ body{
     justify-content: center;
     align-items: center;
     display: flex;
+<<<<<<< HEAD
     flex-direction: column;
 }
 #quote{
@@ -159,3 +223,18 @@ body{
     color: #ffffff;
     padding: 10px;
 }
+=======
+}
+.main-container3 div{
+    height: 300px;
+    font-style: italic;
+    font-size: 36px;
+    word-wrap: break-word;
+    margin: 200px;
+    text-align: justify;
+}
+.main-container4{
+    background-color: #ffffff;
+    height: 150px;
+}
+>>>>>>> ff83653d0d4281e16d13c6834fefa39c53a1ef61
